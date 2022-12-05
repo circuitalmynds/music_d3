@@ -1,6 +1,13 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
+        {
+            "id": "s2wlfrDtBY0",
+            "name": "Liszt - Der du von dem Himmel bist S.279-s2wlfrDtBY0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Der du von dem Himmel bist S.279-s2wlfrDtBY0.mp4",
+            "size": 3.133609,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Der du von dem Himmel bist S.279-s2wlfrDtBY0.mp4?raw=true"
+        },
         {
             "id": "YrqoEcxEDYA",
             "name": "Regra Tr\u00eas-YrqoEcxEDYA.mp4",
@@ -49,6 +56,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Twelve Waltzes and Coda - No. 5-TkXSRbnHPmc.mp4",
             "size": 0.767636,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Twelve Waltzes and Coda - No. 5-TkXSRbnHPmc.mp4?raw=true"
+        },
+        {
+            "id": "STuX4nGW7m0",
+            "name": "Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4",
+            "size": 3.5632949999999997,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4?raw=true"
         },
         {
             "id": "Bmi-_oT2kF8",
@@ -219,6 +233,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Behr - Polka WR - Polka W. R.-kzh5APxAAHA.mp4?raw=true"
         },
         {
+            "id": "6iZAKT9x1kU",
+            "name": "Franc Moody - Live In The Lift _ Molten Jets-6iZAKT9x1kU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Franc Moody - Live In The Lift _ Molten Jets-6iZAKT9x1kU.mp4",
+            "size": 64.396254,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Franc Moody - Live In The Lift _ Molten Jets-6iZAKT9x1kU.mp4?raw=true"
+        },
+        {
             "id": "Ws_YvHfG1yQ",
             "name": "Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
@@ -338,6 +359,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4?raw=true"
         },
         {
+            "id": "JAbKVroldQg",
+            "name": "Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4",
+            "size": 12.284353,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4?raw=true"
+        },
+        {
             "id": "U_YFl6_H-HM",
             "name": "Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4",
@@ -420,6 +448,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/A Little Bit Later On-RCkch6yXxmw.mp4",
             "size": 2.282969,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/A Little Bit Later On-RCkch6yXxmw.mp4?raw=true"
+        },
+        {
+            "id": "7YXoY3VVmY0",
+            "name": "Palm Street-7YXoY3VVmY0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Palm Street-7YXoY3VVmY0.mp4",
+            "size": 3.1405629999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Palm Street-7YXoY3VVmY0.mp4?raw=true"
         },
         {
             "id": "1vMu9fFXBPA",
@@ -534,5 +569,5 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Bruca Manigu\u00e1-ly2eHqy20p8.mp4?raw=true"
         }
     ],
-    "total_size": 872.5675129999997
+    "total_size": 959.0855869999999
 }

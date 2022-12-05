@@ -65,6 +65,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - II. Andante con moto-C4PAwMbgnqc.mp4?raw=true"
         },
         {
+            "id": "j01ag_GzZJ0",
+            "name": "Liszt - Hungarian Rhapsody No. 5 in E minor, S.359 No. 5 (Corresponds with piano versionNo. 5 in...-j01ag_GzZJ0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Hungarian Rhapsody No. 5 in E minor, S.359 No. 5 (Corresponds with piano versionNo. 5 in...-j01ag_GzZJ0.mp4",
+            "size": 6.238424999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Hungarian Rhapsody No. 5 in E minor, S.359 No. 5 (Corresponds with piano versionNo. 5 in...-j01ag_GzZJ0.mp4?raw=true"
+        },
+        {
             "id": "ZDDQiAyOrfk",
             "name": "Sappho von Mitilene Suite, Op. 68 - VII. Larghetto sostenuto assai-ZDDQiAyOrfk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Sappho von Mitilene Suite, Op. 68 - VII. Larghetto sostenuto assai-ZDDQiAyOrfk.mp4",
@@ -77,6 +84,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - IV. Au bord d'une source-C0oym6mOktc.mp4",
             "size": 2.3048249999999997,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - IV. Au bord d'une source-C0oym6mOktc.mp4?raw=true"
+        },
+        {
+            "id": "rDDWYfoIZRU",
+            "name": "\u00bfQui\u00e9n Es-rDDWYfoIZRU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/\u00bfQui\u00e9n Es-rDDWYfoIZRU.mp4",
+            "size": 1.004769,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/\u00bfQui\u00e9n Es-rDDWYfoIZRU.mp4?raw=true"
         },
         {
             "id": "iw37wz5kGR8",
@@ -149,6 +163,20 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4?raw=true"
         },
         {
+            "id": "Qg7cAhgGZp4",
+            "name": "Damisela Encantadora (Remastered)-Qg7cAhgGZp4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Damisela Encantadora (Remastered)-Qg7cAhgGZp4.mp4",
+            "size": 4.842524,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Damisela Encantadora (Remastered)-Qg7cAhgGZp4.mp4?raw=true"
+        },
+        {
+            "id": "kzh5APxAAHA",
+            "name": "Behr - Polka WR - Polka W. R.-kzh5APxAAHA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Behr - Polka WR - Polka W. R.-kzh5APxAAHA.mp4",
+            "size": 4.983457,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Behr - Polka WR - Polka W. R.-kzh5APxAAHA.mp4?raw=true"
+        },
+        {
             "id": "Ws_YvHfG1yQ",
             "name": "Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
@@ -198,11 +226,25 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/For Miles-Ix7NzwBZCzk.mp4?raw=true"
         },
         {
+            "id": "O8be1QEdGUs",
+            "name": "Chopin - Les Sylphides - 4. Mazurka in D major, Op. 33, No. 2-O8be1QEdGUs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Chopin - Les Sylphides - 4. Mazurka in D major, Op. 33, No. 2-O8be1QEdGUs.mp4",
+            "size": 2.22364,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Chopin - Les Sylphides - 4. Mazurka in D major, Op. 33, No. 2-O8be1QEdGUs.mp4?raw=true"
+        },
+        {
             "id": "cagWHA3odBg",
             "name": "Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4",
             "size": 4.052642,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4?raw=true"
+        },
+        {
+            "id": "m-bny_DWMuc",
+            "name": "Sweet Thing-m-bny_DWMuc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Sweet Thing-m-bny_DWMuc.mp4",
+            "size": 5.265505999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Sweet Thing-m-bny_DWMuc.mp4?raw=true"
         },
         {
             "id": "qnbZhJcGzck",
@@ -238,6 +280,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4",
             "size": 1.033982,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4?raw=true"
+        },
+        {
+            "id": "MB8emQ8b9YA",
+            "name": "Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4",
+            "size": 63.660472,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4?raw=true"
         },
         {
             "id": "yFnLVfkfXA4",
@@ -303,6 +352,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 6 in C Major, Hob. XVI, 10 - I. Moderato-UTbOcQ_pRrQ.mp4?raw=true"
         },
         {
+            "id": "y-UIknVuZug",
+            "name": "Brahms - Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra-y-UIknVuZug.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Brahms - Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra-y-UIknVuZug.mp4",
+            "size": 22.252627,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Brahms - Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra-y-UIknVuZug.mp4?raw=true"
+        },
+        {
             "id": "_8yGGtVKrD8",
             "name": "Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
@@ -357,7 +413,21 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4",
             "size": 13.413355,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4?raw=true"
+        },
+        {
+            "id": "1tvJBp80bpg",
+            "name": "Midnight Maneuvers-1tvJBp80bpg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Midnight Maneuvers-1tvJBp80bpg.mp4",
+            "size": 5.807569,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Midnight Maneuvers-1tvJBp80bpg.mp4?raw=true"
+        },
+        {
+            "id": "a77PZo5bP5E",
+            "name": "Heaven on Earth-a77PZo5bP5E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Heaven on Earth-a77PZo5bP5E.mp4",
+            "size": 2.6120229999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Heaven on Earth-a77PZo5bP5E.mp4?raw=true"
         }
     ],
-    "total_size": 466.22564500000004
+    "total_size": 585.1166570000001
 }

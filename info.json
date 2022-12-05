@@ -30,11 +30,25 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 13 in G Major, Hob. XVI -6 - III. Adagio-8NY9RMjKlIU.mp4?raw=true"
         },
         {
+            "id": "vomCwNGjsrU",
+            "name": "Artie Shaw - 12 Tracks in HQ STEREO including  Begin The Beguine-vomCwNGjsrU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Artie Shaw - 12 Tracks in HQ STEREO including  Begin The Beguine-vomCwNGjsrU.mp4",
+            "size": 25.480483,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Artie Shaw - 12 Tracks in HQ STEREO including  Begin The Beguine-vomCwNGjsrU.mp4?raw=true"
+        },
+        {
             "id": "U6FQ1GJenS4",
             "name": "Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4",
             "size": 16.418644999999998,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4?raw=true"
+        },
+        {
+            "id": "TkXSRbnHPmc",
+            "name": "Twelve Waltzes and Coda - No. 5-TkXSRbnHPmc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Twelve Waltzes and Coda - No. 5-TkXSRbnHPmc.mp4",
+            "size": 0.767636,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Twelve Waltzes and Coda - No. 5-TkXSRbnHPmc.mp4?raw=true"
         },
         {
             "id": "Bmi-_oT2kF8",
@@ -107,6 +121,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Gershwin - Overture [Funny Face] (Arr. Rose)-C88mCCGQQ-o.mp4?raw=true"
         },
         {
+            "id": "ASHRp90UaFk",
+            "name": "Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - III. Finale - Presto-ASHRp90UaFk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - III. Finale - Presto-ASHRp90UaFk.mp4",
+            "size": 2.2899529999999997,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - III. Finale - Presto-ASHRp90UaFk.mp4?raw=true"
+        },
+        {
             "id": "FK5d00qIFdo",
             "name": "Sappho von Mitilene Suite, Op. 68 - Finale. Larghetto e cantabile-FK5d00qIFdo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Sappho von Mitilene Suite, Op. 68 - Finale. Larghetto e cantabile-FK5d00qIFdo.mp4",
@@ -121,11 +142,25 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Carne Cruda-CpBRXraggIE.mp4?raw=true"
         },
         {
+            "id": "s-cmso6kK5o",
+            "name": "Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4",
+            "size": 48.61629,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4?raw=true"
+        },
+        {
             "id": "Ws_YvHfG1yQ",
             "name": "Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
             "size": 8.552873,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4?raw=true"
+        },
+        {
+            "id": "27Afydc3JIg",
+            "name": "Nica's Tempo-27Afydc3JIg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Nica's Tempo-27Afydc3JIg.mp4",
+            "size": 10.434351999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Nica's Tempo-27Afydc3JIg.mp4?raw=true"
         },
         {
             "id": "cYBHWE0NqaA",
@@ -191,6 +226,20 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Wohin, S.565, No. 5 (after Schubert, D.795)-BELsrHxFffc.mp4?raw=true"
         },
         {
+            "id": "WPxQEmLJ5ks",
+            "name": "Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4",
+            "size": 8.267468,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4?raw=true"
+        },
+        {
+            "id": "U_YFl6_H-HM",
+            "name": "Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4",
+            "size": 1.033982,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 3. Der Alpenj\u00e4ger-U_YFl6_H-HM.mp4?raw=true"
+        },
+        {
             "id": "yFnLVfkfXA4",
             "name": "Nina Hagen - Zarah [ich wei\u00df, es wird einmal ein Wunder geschehen] (video)-yFnLVfkfXA4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Nina Hagen - Zarah [ich wei\u00df, es wird einmal ein Wunder geschehen] (video)-yFnLVfkfXA4.mp4",
@@ -224,6 +273,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Hungarian Coronation Mass, S.11 - 4. Credo-FYNXFgsm99E.mp4",
             "size": 3.5911969999999998,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Hungarian Coronation Mass, S.11 - 4. Credo-FYNXFgsm99E.mp4?raw=true"
+        },
+        {
+            "id": "Qo2ZqxpffEU",
+            "name": "THAT'S THE WAY OF THE WORLD-Qo2ZqxpffEU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/THAT'S THE WAY OF THE WORLD-Qo2ZqxpffEU.mp4",
+            "size": 7.562697,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/THAT'S THE WAY OF THE WORLD-Qo2ZqxpffEU.mp4?raw=true"
         },
         {
             "id": "MpEgAElwlDo",
@@ -303,5 +359,5 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4?raw=true"
         }
     ],
-    "total_size": 361.77278400000006
+    "total_size": 466.22564500000004
 }

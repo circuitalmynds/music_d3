@@ -1,5 +1,160 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "YrqoEcxEDYA",
+            "name": "Regra Tr\u00eas-YrqoEcxEDYA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Regra Tr\u00eas-YrqoEcxEDYA.mp4",
+            "size": 1.8059969999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Regra Tr\u00eas-YrqoEcxEDYA.mp4?raw=true"
+        },
+        {
+            "id": "8NY9RMjKlIU",
+            "name": "Keyboard Sonata No. 13 in G Major, Hob. XVI -6 - III. Adagio-8NY9RMjKlIU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 13 in G Major, Hob. XVI -6 - III. Adagio-8NY9RMjKlIU.mp4",
+            "size": 5.1528599999999996,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 13 in G Major, Hob. XVI -6 - III. Adagio-8NY9RMjKlIU.mp4?raw=true"
+        },
+        {
+            "id": "Bmi-_oT2kF8",
+            "name": "Puccini - La Boheme - Quando M'en Vo (Musetta's Waltz) [HQ]-Bmi-_oT2kF8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Puccini - La Boheme - Quando M'en Vo (Musetta's Waltz) [HQ]-Bmi-_oT2kF8.mp4",
+            "size": 1.417289,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Puccini - La Boheme - Quando M'en Vo (Musetta's Waltz) [HQ]-Bmi-_oT2kF8.mp4?raw=true"
+        },
+        {
+            "id": "ZDDQiAyOrfk",
+            "name": "Sappho von Mitilene Suite, Op. 68 - VII. Larghetto sostenuto assai-ZDDQiAyOrfk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Sappho von Mitilene Suite, Op. 68 - VII. Larghetto sostenuto assai-ZDDQiAyOrfk.mp4",
+            "size": 6.628960999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Sappho von Mitilene Suite, Op. 68 - VII. Larghetto sostenuto assai-ZDDQiAyOrfk.mp4?raw=true"
+        },
+        {
+            "id": "C0oym6mOktc",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - IV. Au bord d'une source-C0oym6mOktc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - IV. Au bord d'une source-C0oym6mOktc.mp4",
+            "size": 2.3048249999999997,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - IV. Au bord d'une source-C0oym6mOktc.mp4?raw=true"
+        },
+        {
+            "id": "iw37wz5kGR8",
+            "name": "No. 8 - Presto-iw37wz5kGR8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/No. 8 - Presto-iw37wz5kGR8.mp4",
+            "size": 4.212613,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/No. 8 - Presto-iw37wz5kGR8.mp4?raw=true"
+        },
+        {
+            "id": "-OO_hcyBjCs",
+            "name": "R. Strauss - Salome, Op. 54, TrV 215 _ Scene 4 - Salome's Dance of the Seven Veils--OO_hcyBjCs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/R. Strauss - Salome, Op. 54, TrV 215 _ Scene 4 - Salome's Dance of the Seven Veils--OO_hcyBjCs.mp4",
+            "size": 6.305478,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/R. Strauss - Salome, Op. 54, TrV 215 _ Scene 4 - Salome's Dance of the Seven Veils--OO_hcyBjCs.mp4?raw=true"
+        },
+        {
+            "id": "8vQO6GfGqV8",
+            "name": "Liszt - Missa Choralis (S.10) - Sanctus-8vQO6GfGqV8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Missa Choralis (S.10) - Sanctus-8vQO6GfGqV8.mp4",
+            "size": 1.882426,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Missa Choralis (S.10) - Sanctus-8vQO6GfGqV8.mp4?raw=true"
+        },
+        {
+            "id": "JSkcTK5Zh6c",
+            "name": "Royalty into Exile-JSkcTK5Zh6c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Royalty into Exile-JSkcTK5Zh6c.mp4",
+            "size": 5.967897,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Royalty into Exile-JSkcTK5Zh6c.mp4?raw=true"
+        },
+        {
+            "id": "evdSeN9YTa0",
+            "name": "Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - II. Menuet-evdSeN9YTa0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - II. Menuet-evdSeN9YTa0.mp4",
+            "size": 1.170408,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - II. Menuet-evdSeN9YTa0.mp4?raw=true"
+        },
+        {
+            "id": "cagWHA3odBg",
+            "name": "Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4",
+            "size": 4.052642,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - II. Menuet-cagWHA3odBg.mp4?raw=true"
+        },
+        {
+            "id": "qnbZhJcGzck",
+            "name": "3 Old Viennese Dances - Liebesleid-qnbZhJcGzck.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/3 Old Viennese Dances - Liebesleid-qnbZhJcGzck.mp4",
+            "size": 6.4250359999999995,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/3 Old Viennese Dances - Liebesleid-qnbZhJcGzck.mp4?raw=true"
+        },
+        {
+            "id": "RSEqISUGaWA",
+            "name": "Liszt - Via Crucis - Station II - Jesus tr\u00e4gt sein Kreuz-RSEqISUGaWA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Via Crucis - Station II - Jesus tr\u00e4gt sein Kreuz-RSEqISUGaWA.mp4",
+            "size": 1.809115,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Via Crucis - Station II - Jesus tr\u00e4gt sein Kreuz-RSEqISUGaWA.mp4?raw=true"
+        },
+        {
+            "id": "BELsrHxFffc",
+            "name": "Liszt - Wohin, S.565, No. 5 (after Schubert, D.795)-BELsrHxFffc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Wohin, S.565, No. 5 (after Schubert, D.795)-BELsrHxFffc.mp4",
+            "size": 1.92442,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Wohin, S.565, No. 5 (after Schubert, D.795)-BELsrHxFffc.mp4?raw=true"
+        },
+        {
+            "id": "W-DKyTrnVuo",
+            "name": "Lets Misbehave-W-DKyTrnVuo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Lets Misbehave-W-DKyTrnVuo.mp4",
+            "size": 3.524768,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Lets Misbehave-W-DKyTrnVuo.mp4?raw=true"
+        },
+        {
+            "id": "FYNXFgsm99E",
+            "name": "Liszt - Hungarian Coronation Mass, S.11 - 4. Credo-FYNXFgsm99E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Hungarian Coronation Mass, S.11 - 4. Credo-FYNXFgsm99E.mp4",
+            "size": 3.5911969999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Hungarian Coronation Mass, S.11 - 4. Credo-FYNXFgsm99E.mp4?raw=true"
+        },
+        {
+            "id": "MpEgAElwlDo",
+            "name": "No Me Arrepiento-MpEgAElwlDo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/No Me Arrepiento-MpEgAElwlDo.mp4",
+            "size": 2.988958,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/No Me Arrepiento-MpEgAElwlDo.mp4?raw=true"
+        },
+        {
+            "id": "1vMu9fFXBPA",
+            "name": "Let True Love Begin-1vMu9fFXBPA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Let True Love Begin-1vMu9fFXBPA.mp4",
+            "size": 6.027603999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Let True Love Begin-1vMu9fFXBPA.mp4?raw=true"
+        },
+        {
+            "id": "UTbOcQ_pRrQ",
+            "name": "Keyboard Sonata No. 6 in C Major, Hob. XVI, 10 - I. Moderato-UTbOcQ_pRrQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Keyboard Sonata No. 6 in C Major, Hob. XVI, 10 - I. Moderato-UTbOcQ_pRrQ.mp4",
+            "size": 4.217546,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 6 in C Major, Hob. XVI, 10 - I. Moderato-UTbOcQ_pRrQ.mp4?raw=true"
+        },
+        {
+            "id": "_8yGGtVKrD8",
+            "name": "Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
+            "size": 16.641641,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4?raw=true"
+        },
+        {
+            "id": "Rr52bysUKCQ",
+            "name": "Liszt - Die Legende von der Heiligen Elisabeth _ 3. Die Kreuzritter - Ins heil'ge Land, ins...-Rr52bysUKCQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 3. Die Kreuzritter - Ins heil'ge Land, ins...-Rr52bysUKCQ.mp4",
+            "size": 2.4764369999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 3. Die Kreuzritter - Ins heil'ge Land, ins...-Rr52bysUKCQ.mp4?raw=true"
+        },
+        {
+            "id": "puK4XrxBJkM",
+            "name": "Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d3/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4",
+            "size": 13.413355,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4?raw=true"
+        }
+    ],
+    "total_size": 103.941473
 }

@@ -240,6 +240,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Mambo No. 6-iGi4vKrVKUU.mp4?raw=true"
         },
         {
+            "id": "3rM96_RS1Os",
+            "name": "Furtwangler conducts Die Meistersinger in 1942 [3rM96_RS1Os].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Furtwangler conducts Die Meistersinger in 1942 [3rM96_RS1Os].mp4",
+            "size": 25.159921999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Furtwangler conducts Die Meistersinger in 1942 [3rM96_RS1Os].mp4?raw=true"
+        },
+        {
             "id": "a77PZo5bP5E",
             "name": "Heaven on Earth-a77PZo5bP5E.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Heaven on Earth-a77PZo5bP5E.mp4",
@@ -324,6 +331,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Du bist wie eine Blume, S.287-FaUzMyBzI_w.mp4?raw=true"
         },
         {
+            "id": "TKO542M9lNI",
+            "name": "Las Alegres Comadres de Windsor： Obertura [TKO542M9lNI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Las Alegres Comadres de Windsor： Obertura [TKO542M9lNI].mp4",
+            "size": 17.943486,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Las Alegres Comadres de Windsor： Obertura [TKO542M9lNI].mp4?raw=true"
+        },
+        {
             "id": "NXQQ3Zfm23E",
             "name": "La Mujer Que Yo Quiero-NXQQ3Zfm23E.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/La Mujer Que Yo Quiero-NXQQ3Zfm23E.mp4",
@@ -364,6 +378,13 @@
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Disco 'B'-cYBHWE0NqaA.mp4",
             "size": 4.965228,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Disco 'B'-cYBHWE0NqaA.mp4?raw=true"
+        },
+        {
+            "id": "hM8eXtJ6Ewk",
+            "name": "Thelonious (Take 3) [hM8eXtJ6Ewk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Thelonious (Take 3) [hM8eXtJ6Ewk].mp4",
+            "size": 7.5579209999999994,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Thelonious (Take 3) [hM8eXtJ6Ewk].mp4?raw=true"
         },
         {
             "id": "ZDDQiAyOrfk",
@@ -478,6 +499,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Chucho Martínez Gil. Colección México #45 (Full Album⧸Album Completo) [WH0D3nc580Y].mp4?raw=true"
         },
         {
+            "id": "Fx78Hx37c-w",
+            "name": "Liszt - Romanian Rhapsody S.242 (Audio+Sheet) [Bellucci] [Fx78Hx37c-w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Liszt - Romanian Rhapsody S.242 (Audio+Sheet) [Bellucci] [Fx78Hx37c-w].mp4",
+            "size": 38.41558,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Romanian Rhapsody S.242 (Audio+Sheet) [Bellucci] [Fx78Hx37c-w].mp4?raw=true"
+        },
+        {
             "id": "vt37CtpId9w",
             "name": "Obsesión-vt37CtpId9w.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Obsesión-vt37CtpId9w.mp4",
@@ -490,6 +518,13 @@
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Liszt - Via Crucis - Station II - Jesus trägt sein Kreuz-RSEqISUGaWA.mp4",
             "size": 1.809115,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Via Crucis - Station II - Jesus trägt sein Kreuz-RSEqISUGaWA.mp4?raw=true"
+        },
+        {
+            "id": "SAG19VYxB9c",
+            "name": "Trusting my luck [SAG19VYxB9c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Trusting my luck [SAG19VYxB9c].mp4",
+            "size": 6.0868009999999995,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Trusting my luck [SAG19VYxB9c].mp4?raw=true"
         },
         {
             "id": "s2wlfrDtBY0",
@@ -513,5 +548,5 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4?raw=true"
         }
     ],
-    "total_size": 835.9859650000001
+    "total_size": 931.149675
 }

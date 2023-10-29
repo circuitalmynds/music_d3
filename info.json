@@ -1,12 +1,12 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
-            "id": "_8yGGtVKrD8",
-            "name": "Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4",
-            "size": 16.641641,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers-_8yGGtVKrD8.mp4?raw=true"
+            "id": "U6FQ1GJenS4",
+            "name": "Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808) [U6FQ1GJenS4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808) [U6FQ1GJenS4].mp4",
+            "size": 16.418644999999998,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808) [U6FQ1GJenS4].mp4?raw=true"
         },
         {
             "id": "8vQO6GfGqV8",
@@ -93,20 +93,6 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Keyboard Sonata No. 13 in G Major, Hob. XVI -6 - III. Adagio-8NY9RMjKlIU.mp4?raw=true"
         },
         {
-            "id": "Ws_YvHfG1yQ",
-            "name": "Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4",
-            "size": 8.552873,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise-Ws_YvHfG1yQ.mp4?raw=true"
-        },
-        {
-            "id": "STuX4nGW7m0",
-            "name": "Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4",
-            "size": 3.5632949999999997,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Gigue-STuX4nGW7m0.mp4?raw=true"
-        },
-        {
             "id": "evdSeN9YTa0",
             "name": "Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - II. Menuet-evdSeN9YTa0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - II. Menuet-evdSeN9YTa0.mp4",
@@ -170,18 +156,18 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/¿Quién Es-rDDWYfoIZRU.mp4?raw=true"
         },
         {
+            "id": "_8yGGtVKrD8",
+            "name": "Jumpin Jive - Cab Calloway and the Nicholas Brothers [_8yGGtVKrD8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers [_8yGGtVKrD8].mp4",
+            "size": 16.641641,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Jumpin Jive - Cab Calloway and the Nicholas Brothers [_8yGGtVKrD8].mp4?raw=true"
+        },
+        {
             "id": "Gxui_G2sidg",
             "name": "Giorgio Moroder Medley - From Here to Eternity _ Utopia-Me Giorgio _ Baby Blue _ First Hand...-Gxui_G2sidg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Giorgio Moroder Medley - From Here to Eternity _ Utopia-Me Giorgio _ Baby Blue _ First Hand...-Gxui_G2sidg.mp4",
             "size": 84.79078299999999,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Giorgio Moroder Medley - From Here to Eternity _ Utopia-Me Giorgio _ Baby Blue _ First Hand...-Gxui_G2sidg.mp4?raw=true"
-        },
-        {
-            "id": "U6FQ1GJenS4",
-            "name": "Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4",
-            "size": 16.418644999999998,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Franz Xaver Mozart - Piano Concerto No. 1, Op. 14 (1808)-U6FQ1GJenS4.mp4?raw=true"
         },
         {
             "id": "MpEgAElwlDo",
@@ -198,25 +184,11 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/THAT'S THE WAY OF THE WORLD-Qo2ZqxpffEU.mp4?raw=true"
         },
         {
-            "id": "puK4XrxBJkM",
-            "name": "Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4",
-            "size": 13.413355,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Siouxsie And The Banshees - Fireworks (Official Music Video)-puK4XrxBJkM.mp4?raw=true"
-        },
-        {
-            "id": "yFnLVfkfXA4",
-            "name": "Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video)-yFnLVfkfXA4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video)-yFnLVfkfXA4.mp4",
-            "size": 18.732174999999998,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video)-yFnLVfkfXA4.mp4?raw=true"
-        },
-        {
-            "id": "GPFIHwRic5E",
-            "name": "Antonio Tormo - La canción del linyera   (1970)-GPFIHwRic5E.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Antonio Tormo - La canción del linyera   (1970)-GPFIHwRic5E.mp4",
-            "size": 64.291845,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Antonio Tormo - La canción del linyera   (1970)-GPFIHwRic5E.mp4?raw=true"
+            "id": "MB8emQ8b9YA",
+            "name": "Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14) [MB8emQ8b9YA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14) [MB8emQ8b9YA].mp4",
+            "size": 63.660472,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14) [MB8emQ8b9YA].mp4?raw=true"
         },
         {
             "id": "vomCwNGjsrU",
@@ -224,13 +196,6 @@
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Artie Shaw - 12 Tracks in HQ STEREO including  Begin The Beguine-vomCwNGjsrU.mp4",
             "size": 25.480483,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Artie Shaw - 12 Tracks in HQ STEREO including  Begin The Beguine-vomCwNGjsrU.mp4?raw=true"
-        },
-        {
-            "id": "uRz3AQx21y8",
-            "name": "The Best of Andrés Segovia _ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ]-uRz3AQx21y8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/The Best of Andrés Segovia _ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ]-uRz3AQx21y8.mp4",
-            "size": 65.184189,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/The Best of Andrés Segovia _ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ]-uRz3AQx21y8.mp4?raw=true"
         },
         {
             "id": "JI6JfJXcUjU",
@@ -245,13 +210,6 @@
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Puccini - La Boheme - Quando M'en Vo (Musetta's Waltz) [HQ]-Bmi-_oT2kF8.mp4",
             "size": 1.417289,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Puccini - La Boheme - Quando M'en Vo (Musetta's Waltz) [HQ]-Bmi-_oT2kF8.mp4?raw=true"
-        },
-        {
-            "id": "MB8emQ8b9YA",
-            "name": "Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4",
-            "size": 63.660472,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Eugene Ysaye- Violin & Camille Decreus -Piano(recorded 1913 -14)-MB8emQ8b9YA.mp4?raw=true"
         },
         {
             "id": "Ix7NzwBZCzk",
@@ -359,20 +317,6 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/R. Strauss - Salome, Op. 54, TrV 215 _ Scene 4 - Salome's Dance of the Seven Veils--OO_hcyBjCs.mp4?raw=true"
         },
         {
-            "id": "s-cmso6kK5o",
-            "name": "Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4",
-            "size": 48.61629,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Maurice Ravel  - String Quartet in F major (1902-03)-s-cmso6kK5o.mp4?raw=true"
-        },
-        {
-            "id": "Qxqq5vahHKk",
-            "name": "Bauhaus - She's In Parties-Qxqq5vahHKk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Bauhaus - She's In Parties-Qxqq5vahHKk.mp4",
-            "size": 12.626133,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Bauhaus - She's In Parties-Qxqq5vahHKk.mp4?raw=true"
-        },
-        {
             "id": "FaUzMyBzI_w",
             "name": "Liszt - Du bist wie eine Blume, S.287-FaUzMyBzI_w.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Liszt - Du bist wie eine Blume, S.287-FaUzMyBzI_w.mp4",
@@ -443,13 +387,6 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Royalty into Exile-JSkcTK5Zh6c.mp4?raw=true"
         },
         {
-            "id": "JAbKVroldQg",
-            "name": "Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4",
-            "size": 12.284353,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Gary Numan Cars (Extended Mix).-JAbKVroldQg.mp4?raw=true"
-        },
-        {
             "id": "Rr52bysUKCQ",
             "name": "Liszt - Die Legende von der Heiligen Elisabeth _ 3. Die Kreuzritter - Ins heil'ge Land, ins...-Rr52bysUKCQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 3. Die Kreuzritter - Ins heil'ge Land, ins...-Rr52bysUKCQ.mp4",
@@ -478,6 +415,13 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Sonata No. 3 in C major (Sonate en ut majeur no 3) , Op. 13 - Allegretto-G9bl6ofJmyo.mp4?raw=true"
         },
         {
+            "id": "GPFIHwRic5E",
+            "name": "Antonio Tormo - La canción del linyera   (1970) [GPFIHwRic5E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Antonio Tormo - La canción del linyera   (1970) [GPFIHwRic5E].mp4",
+            "size": 64.291845,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Antonio Tormo - La canción del linyera   (1970) [GPFIHwRic5E].mp4?raw=true"
+        },
+        {
             "id": "qnbZhJcGzck",
             "name": "3 Old Viennese Dances - Liebesleid-qnbZhJcGzck.mp4",
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/3 Old Viennese Dances - Liebesleid-qnbZhJcGzck.mp4",
@@ -497,6 +441,13 @@
             "path": "/home/alanmatzumiya/Videos/container/d3/videos/Liszt - Rákóczy March - Willi Boskovsky - 1976-5i5yz8lXHWg.mp4",
             "size": 24.2292,
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Rákóczy March - Willi Boskovsky - 1976-5i5yz8lXHWg.mp4?raw=true"
+        },
+        {
+            "id": "uRz3AQx21y8",
+            "name": "The Best of Andrés Segovia ⧸⧸⧸ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ] [uRz3AQx21y8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/The Best of Andrés Segovia ⧸⧸⧸ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ] [uRz3AQx21y8].mp4",
+            "size": 65.18393999999999,
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/The Best of Andrés Segovia ⧸⧸⧸ Guitar Masterpieces for Classical Music Lovers (Full Album) [HQ] [uRz3AQx21y8].mp4?raw=true"
         },
         {
             "id": "TkXSRbnHPmc",
@@ -520,18 +471,11 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Mazeppa, Symphonic Poem No. 6, S. 100-YqIHxV0p4qs.mp4?raw=true"
         },
         {
-            "id": "ILsmVP0ZtrU",
-            "name": "Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii-ILsmVP0ZtrU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii-ILsmVP0ZtrU.mp4",
-            "size": 5.310899,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii-ILsmVP0ZtrU.mp4?raw=true"
-        },
-        {
             "id": "WH0D3nc580Y",
-            "name": "Chucho Martínez Gil. Colección México #45 (Full Album_Album Completo)-WH0D3nc580Y.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Chucho Martínez Gil. Colección México #45 (Full Album_Album Completo)-WH0D3nc580Y.mp4",
+            "name": "Chucho Martínez Gil. Colección México #45 (Full Album⧸Album Completo) [WH0D3nc580Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d3/videos/Chucho Martínez Gil. Colección México #45 (Full Album⧸Album Completo) [WH0D3nc580Y].mp4",
             "size": 39.18774,
-            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Chucho Martínez Gil. Colección México #45 (Full Album_Album Completo)-WH0D3nc580Y.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Chucho Martínez Gil. Colección México #45 (Full Album⧸Album Completo) [WH0D3nc580Y].mp4?raw=true"
         },
         {
             "id": "vt37CtpId9w",
@@ -569,5 +513,5 @@
             "url": "https://github.com/circuitalmynds/music_d3/blob/main/videos/Liszt - Prelude and Fugue on the Name B-A-C-H, S.260-WPxQEmLJ5ks.mp4?raw=true"
         }
     ],
-    "total_size": 959.085587
+    "total_size": 835.9859650000001
 }
